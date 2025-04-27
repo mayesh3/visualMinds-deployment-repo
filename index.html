@@ -15,6 +15,9 @@
 <body>
   <h1>Flooding Complaints Dashboard</h1>
 
+  <h2>Flooding complaints by Months</h2>
+  <div id="Barchart" class="chart-container"></div>
+
   <h2>Highlighted Monthly Reports</h2>
   <div id="stackbar" class="chart-container"></div>
 
@@ -29,7 +32,7 @@
   
 
   <script>
-
+    vegaEmbed('#Barchart', 'charts/month_barchart.json');
 
     vegaEmbed('#stackbar', 'charts/linked_stacked_barchart.json');
 
