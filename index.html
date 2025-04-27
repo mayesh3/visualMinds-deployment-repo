@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flooding Complaints Visualizations</title>
+
+  <!-- Vega & Vega-Lite Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+ 
+</head>
+<body>
+  <h1>Flooding Complaints Dashboard</h1>
+
+  <h2>Highlighted Monthly Reports</h2>
+  <div id="stackbar" class="chart-container"></div>
+
+  <h2>Task 3: Choropleth Chart</h2>
+  <div id="Choropleth" class="chart-container"></div>
+
+  <!-- <h2>Task 3: Scatter Plot Chart</h2>
+  <div id="Scatter" class="chart-container"></div> -->
+
+ 
+  
+  
+
+  <script>
+
+
+    vegaEmbed('#stackbar', 'charts/linked_stacked_barchart.json');
+
+    vegaEmbed('#Choropleth', 'charts/choropleth.json');
+    // vegaEmbed('#Scatter', 'charts/dot_density_topzip.json'); 
+  </script>
+  
+</body>
+</html>
