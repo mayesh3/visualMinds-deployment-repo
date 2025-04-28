@@ -1,10 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background": null,
     "vconcat": [
       {
         "description": "Flood Complaints Over Time (Top ZIP Codes)",
-        "width": 800,
-        "height": 300,
+        "width": 500,
+        "height": 250,
         "data": {
           "url": "data/stack.json"
         },
@@ -61,8 +62,8 @@
       },
       {
         "description": "Monthly Complaint Totals by ZIP Code (Filtered by Brush)",
-        "width": 800,
-        "height": 300,
+        "width": 500,
+        "height": 250,
         "data": {
           "url": "data/stack.json"
         },

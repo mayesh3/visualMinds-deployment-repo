@@ -1,6 +1,61 @@
-#vis1, #vis2, #vis3 {
-    width: 90%;
-    height: 400px;
-    margin: 20px auto;
-  }
-  
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* important fix */
+    background-color: #222222; /* Light grey background */
+    color: #333; /* Dark text for light theme */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Keep Vega charts transparent if needed */
+/* .vega-embed, .vega-embed svg, .vega-embed canvas {
+    background: none !important;
+} */
+
+.grid {
+    display: grid;
+    height: calc(100% - 80px);
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+      "Barchart stackbar"
+      "Choropleth BarLineChart";
+    gap: 20px;
+    width: 100%;   /* <--- use full width */
+    max-width: 1200px;
+    margin: 0 auto; /* <--- true centering */
+
+}
+
+.visualization {
+    background-color: white; /* White card background */
+    border-radius: 10px;
+    border: 1px solid #ddd; /* Light border */
+    width: 100%;
+    height: 100%;
+    min-width: 450px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Soft subtle shadow */
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Move bottom cards up slightly */
+#Barchart { grid-area: Barchart; }
+#stackbar { grid-area: stackbar; }
+#Choropleth { grid-area: Choropleth; margin-top: -15px; }
+#BarLineChart { grid-area: BarLineChart; margin-top: -15px; }
+
+/* Optional: Card hover lift effect */
+.visualization:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Slightly stronger hover shadow */
+}
+
+h1 {
+    color: white
+}

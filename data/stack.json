@@ -1,11 +1,6 @@
 [
     {
       "YearMonth":"2018-12",
-      "ZIP_CODE":"60618",
-      "count":2
-    },
-    {
-      "YearMonth":"2018-12",
       "ZIP_CODE":"60619",
       "count":2
     },
@@ -16,18 +11,8 @@
     },
     {
       "YearMonth":"2018-12",
-      "ZIP_CODE":"60625",
-      "count":1
-    },
-    {
-      "YearMonth":"2018-12",
       "ZIP_CODE":"60628",
       "count":2
-    },
-    {
-      "YearMonth":"2018-12",
-      "ZIP_CODE":"60630",
-      "count":1
     },
     {
       "YearMonth":"2018-12",
@@ -46,11 +31,6 @@
     },
     {
       "YearMonth":"2019-01",
-      "ZIP_CODE":"60618",
-      "count":2
-    },
-    {
-      "YearMonth":"2019-01",
       "ZIP_CODE":"60619",
       "count":1
     },
@@ -61,22 +41,7 @@
     },
     {
       "YearMonth":"2019-01",
-      "ZIP_CODE":"60625",
-      "count":4
-    },
-    {
-      "YearMonth":"2019-01",
       "ZIP_CODE":"60628",
-      "count":3
-    },
-    {
-      "YearMonth":"2019-01",
-      "ZIP_CODE":"60629",
-      "count":3
-    },
-    {
-      "YearMonth":"2019-01",
-      "ZIP_CODE":"60630",
       "count":3
     },
     {
@@ -106,11 +71,6 @@
     },
     {
       "YearMonth":"2019-02",
-      "ZIP_CODE":"60618",
-      "count":11
-    },
-    {
-      "YearMonth":"2019-02",
       "ZIP_CODE":"60619",
       "count":8
     },
@@ -121,28 +81,8 @@
     },
     {
       "YearMonth":"2019-02",
-      "ZIP_CODE":"60624",
-      "count":11
-    },
-    {
-      "YearMonth":"2019-02",
-      "ZIP_CODE":"60625",
-      "count":9
-    },
-    {
-      "YearMonth":"2019-02",
       "ZIP_CODE":"60628",
       "count":9
-    },
-    {
-      "YearMonth":"2019-02",
-      "ZIP_CODE":"60629",
-      "count":5
-    },
-    {
-      "YearMonth":"2019-02",
-      "ZIP_CODE":"60630",
-      "count":3
     },
     {
       "YearMonth":"2019-02",
@@ -181,11 +121,6 @@
     },
     {
       "YearMonth":"2019-03",
-      "ZIP_CODE":"60618",
-      "count":32
-    },
-    {
-      "YearMonth":"2019-03",
       "ZIP_CODE":"60619",
       "count":25
     },
@@ -196,28 +131,8 @@
     },
     {
       "YearMonth":"2019-03",
-      "ZIP_CODE":"60624",
-      "count":14
-    },
-    {
-      "YearMonth":"2019-03",
-      "ZIP_CODE":"60625",
-      "count":32
-    },
-    {
-      "YearMonth":"2019-03",
       "ZIP_CODE":"60628",
       "count":29
-    },
-    {
-      "YearMonth":"2019-03",
-      "ZIP_CODE":"60629",
-      "count":31
-    },
-    {
-      "YearMonth":"2019-03",
-      "ZIP_CODE":"60630",
-      "count":23
     },
     {
       "YearMonth":"2019-03",
@@ -256,11 +171,6 @@
     },
     {
       "YearMonth":"2019-04",
-      "ZIP_CODE":"60618",
-      "count":51
-    },
-    {
-      "YearMonth":"2019-04",
       "ZIP_CODE":"60619",
       "count":66
     },
@@ -271,28 +181,8 @@
     },
     {
       "YearMonth":"2019-04",
-      "ZIP_CODE":"60624",
-      "count":20
-    },
-    {
-      "YearMonth":"2019-04",
-      "ZIP_CODE":"60625",
-      "count":29
-    },
-    {
-      "YearMonth":"2019-04",
       "ZIP_CODE":"60628",
       "count":111
-    },
-    {
-      "YearMonth":"2019-04",
-      "ZIP_CODE":"60629",
-      "count":62
-    },
-    {
-      "YearMonth":"2019-04",
-      "ZIP_CODE":"60630",
-      "count":27
     },
     {
       "YearMonth":"2019-04",
@@ -331,11 +221,6 @@
     },
     {
       "YearMonth":"2019-05",
-      "ZIP_CODE":"60618",
-      "count":98
-    },
-    {
-      "YearMonth":"2019-05",
       "ZIP_CODE":"60619",
       "count":178
     },
@@ -346,28 +231,8 @@
     },
     {
       "YearMonth":"2019-05",
-      "ZIP_CODE":"60624",
-      "count":32
-    },
-    {
-      "YearMonth":"2019-05",
-      "ZIP_CODE":"60625",
-      "count":92
-    },
-    {
-      "YearMonth":"2019-05",
       "ZIP_CODE":"60628",
       "count":221
-    },
-    {
-      "YearMonth":"2019-05",
-      "ZIP_CODE":"60629",
-      "count":91
-    },
-    {
-      "YearMonth":"2019-05",
-      "ZIP_CODE":"60630",
-      "count":58
     },
     {
       "YearMonth":"2019-05",
@@ -406,11 +271,6 @@
     },
     {
       "YearMonth":"2019-06",
-      "ZIP_CODE":"60618",
-      "count":94
-    },
-    {
-      "YearMonth":"2019-06",
       "ZIP_CODE":"60619",
       "count":84
     },
@@ -421,28 +281,8 @@
     },
     {
       "YearMonth":"2019-06",
-      "ZIP_CODE":"60624",
-      "count":13
-    },
-    {
-      "YearMonth":"2019-06",
-      "ZIP_CODE":"60625",
-      "count":56
-    },
-    {
-      "YearMonth":"2019-06",
       "ZIP_CODE":"60628",
       "count":72
-    },
-    {
-      "YearMonth":"2019-06",
-      "ZIP_CODE":"60629",
-      "count":30
-    },
-    {
-      "YearMonth":"2019-06",
-      "ZIP_CODE":"60630",
-      "count":19
     },
     {
       "YearMonth":"2019-06",
@@ -481,11 +321,6 @@
     },
     {
       "YearMonth":"2019-07",
-      "ZIP_CODE":"60618",
-      "count":28
-    },
-    {
-      "YearMonth":"2019-07",
       "ZIP_CODE":"60619",
       "count":60
     },
@@ -496,28 +331,8 @@
     },
     {
       "YearMonth":"2019-07",
-      "ZIP_CODE":"60624",
-      "count":14
-    },
-    {
-      "YearMonth":"2019-07",
-      "ZIP_CODE":"60625",
-      "count":33
-    },
-    {
-      "YearMonth":"2019-07",
       "ZIP_CODE":"60628",
       "count":64
-    },
-    {
-      "YearMonth":"2019-07",
-      "ZIP_CODE":"60629",
-      "count":39
-    },
-    {
-      "YearMonth":"2019-07",
-      "ZIP_CODE":"60630",
-      "count":16
     },
     {
       "YearMonth":"2019-07",
@@ -556,11 +371,6 @@
     },
     {
       "YearMonth":"2019-08",
-      "ZIP_CODE":"60618",
-      "count":32
-    },
-    {
-      "YearMonth":"2019-08",
       "ZIP_CODE":"60619",
       "count":26
     },
@@ -571,28 +381,8 @@
     },
     {
       "YearMonth":"2019-08",
-      "ZIP_CODE":"60624",
-      "count":8
-    },
-    {
-      "YearMonth":"2019-08",
-      "ZIP_CODE":"60625",
-      "count":32
-    },
-    {
-      "YearMonth":"2019-08",
       "ZIP_CODE":"60628",
       "count":28
-    },
-    {
-      "YearMonth":"2019-08",
-      "ZIP_CODE":"60629",
-      "count":40
-    },
-    {
-      "YearMonth":"2019-08",
-      "ZIP_CODE":"60630",
-      "count":11
     },
     {
       "YearMonth":"2019-08",
@@ -631,11 +421,6 @@
     },
     {
       "YearMonth":"2019-09",
-      "ZIP_CODE":"60618",
-      "count":25
-    },
-    {
-      "YearMonth":"2019-09",
       "ZIP_CODE":"60619",
       "count":54
     },
@@ -646,28 +431,8 @@
     },
     {
       "YearMonth":"2019-09",
-      "ZIP_CODE":"60624",
-      "count":6
-    },
-    {
-      "YearMonth":"2019-09",
-      "ZIP_CODE":"60625",
-      "count":29
-    },
-    {
-      "YearMonth":"2019-09",
       "ZIP_CODE":"60628",
       "count":68
-    },
-    {
-      "YearMonth":"2019-09",
-      "ZIP_CODE":"60629",
-      "count":55
-    },
-    {
-      "YearMonth":"2019-09",
-      "ZIP_CODE":"60630",
-      "count":18
     },
     {
       "YearMonth":"2019-09",
@@ -706,11 +471,6 @@
     },
     {
       "YearMonth":"2019-10",
-      "ZIP_CODE":"60618",
-      "count":48
-    },
-    {
-      "YearMonth":"2019-10",
       "ZIP_CODE":"60619",
       "count":51
     },
@@ -721,28 +481,8 @@
     },
     {
       "YearMonth":"2019-10",
-      "ZIP_CODE":"60624",
-      "count":10
-    },
-    {
-      "YearMonth":"2019-10",
-      "ZIP_CODE":"60625",
-      "count":64
-    },
-    {
-      "YearMonth":"2019-10",
       "ZIP_CODE":"60628",
       "count":61
-    },
-    {
-      "YearMonth":"2019-10",
-      "ZIP_CODE":"60629",
-      "count":37
-    },
-    {
-      "YearMonth":"2019-10",
-      "ZIP_CODE":"60630",
-      "count":36
     },
     {
       "YearMonth":"2019-10",
@@ -781,11 +521,6 @@
     },
     {
       "YearMonth":"2019-11",
-      "ZIP_CODE":"60618",
-      "count":15
-    },
-    {
-      "YearMonth":"2019-11",
       "ZIP_CODE":"60619",
       "count":13
     },
@@ -796,28 +531,8 @@
     },
     {
       "YearMonth":"2019-11",
-      "ZIP_CODE":"60624",
-      "count":9
-    },
-    {
-      "YearMonth":"2019-11",
-      "ZIP_CODE":"60625",
-      "count":19
-    },
-    {
-      "YearMonth":"2019-11",
       "ZIP_CODE":"60628",
       "count":14
-    },
-    {
-      "YearMonth":"2019-11",
-      "ZIP_CODE":"60629",
-      "count":13
-    },
-    {
-      "YearMonth":"2019-11",
-      "ZIP_CODE":"60630",
-      "count":12
     },
     {
       "YearMonth":"2019-11",
@@ -856,11 +571,6 @@
     },
     {
       "YearMonth":"2019-12",
-      "ZIP_CODE":"60618",
-      "count":18
-    },
-    {
-      "YearMonth":"2019-12",
       "ZIP_CODE":"60619",
       "count":26
     },
@@ -871,28 +581,8 @@
     },
     {
       "YearMonth":"2019-12",
-      "ZIP_CODE":"60624",
-      "count":1
-    },
-    {
-      "YearMonth":"2019-12",
-      "ZIP_CODE":"60625",
-      "count":16
-    },
-    {
-      "YearMonth":"2019-12",
       "ZIP_CODE":"60628",
       "count":27
-    },
-    {
-      "YearMonth":"2019-12",
-      "ZIP_CODE":"60629",
-      "count":19
-    },
-    {
-      "YearMonth":"2019-12",
-      "ZIP_CODE":"60630",
-      "count":8
     },
     {
       "YearMonth":"2019-12",
@@ -931,11 +621,6 @@
     },
     {
       "YearMonth":"2020-01",
-      "ZIP_CODE":"60618",
-      "count":22
-    },
-    {
-      "YearMonth":"2020-01",
       "ZIP_CODE":"60619",
       "count":50
     },
@@ -946,28 +631,8 @@
     },
     {
       "YearMonth":"2020-01",
-      "ZIP_CODE":"60624",
-      "count":8
-    },
-    {
-      "YearMonth":"2020-01",
-      "ZIP_CODE":"60625",
-      "count":21
-    },
-    {
-      "YearMonth":"2020-01",
       "ZIP_CODE":"60628",
       "count":44
-    },
-    {
-      "YearMonth":"2020-01",
-      "ZIP_CODE":"60629",
-      "count":37
-    },
-    {
-      "YearMonth":"2020-01",
-      "ZIP_CODE":"60630",
-      "count":30
     },
     {
       "YearMonth":"2020-01",
@@ -1006,11 +671,6 @@
     },
     {
       "YearMonth":"2020-02",
-      "ZIP_CODE":"60618",
-      "count":16
-    },
-    {
-      "YearMonth":"2020-02",
       "ZIP_CODE":"60619",
       "count":16
     },
@@ -1021,28 +681,8 @@
     },
     {
       "YearMonth":"2020-02",
-      "ZIP_CODE":"60624",
-      "count":5
-    },
-    {
-      "YearMonth":"2020-02",
-      "ZIP_CODE":"60625",
-      "count":7
-    },
-    {
-      "YearMonth":"2020-02",
       "ZIP_CODE":"60628",
       "count":13
-    },
-    {
-      "YearMonth":"2020-02",
-      "ZIP_CODE":"60629",
-      "count":17
-    },
-    {
-      "YearMonth":"2020-02",
-      "ZIP_CODE":"60630",
-      "count":2
     },
     {
       "YearMonth":"2020-02",
@@ -1081,11 +721,6 @@
     },
     {
       "YearMonth":"2020-03",
-      "ZIP_CODE":"60618",
-      "count":31
-    },
-    {
-      "YearMonth":"2020-03",
       "ZIP_CODE":"60619",
       "count":28
     },
@@ -1096,28 +731,8 @@
     },
     {
       "YearMonth":"2020-03",
-      "ZIP_CODE":"60624",
-      "count":10
-    },
-    {
-      "YearMonth":"2020-03",
-      "ZIP_CODE":"60625",
-      "count":30
-    },
-    {
-      "YearMonth":"2020-03",
       "ZIP_CODE":"60628",
       "count":47
-    },
-    {
-      "YearMonth":"2020-03",
-      "ZIP_CODE":"60629",
-      "count":28
-    },
-    {
-      "YearMonth":"2020-03",
-      "ZIP_CODE":"60630",
-      "count":12
     },
     {
       "YearMonth":"2020-03",
@@ -1156,11 +771,6 @@
     },
     {
       "YearMonth":"2020-04",
-      "ZIP_CODE":"60618",
-      "count":37
-    },
-    {
-      "YearMonth":"2020-04",
       "ZIP_CODE":"60619",
       "count":67
     },
@@ -1171,28 +781,8 @@
     },
     {
       "YearMonth":"2020-04",
-      "ZIP_CODE":"60624",
-      "count":12
-    },
-    {
-      "YearMonth":"2020-04",
-      "ZIP_CODE":"60625",
-      "count":36
-    },
-    {
-      "YearMonth":"2020-04",
       "ZIP_CODE":"60628",
       "count":98
-    },
-    {
-      "YearMonth":"2020-04",
-      "ZIP_CODE":"60629",
-      "count":63
-    },
-    {
-      "YearMonth":"2020-04",
-      "ZIP_CODE":"60630",
-      "count":19
     },
     {
       "YearMonth":"2020-04",
@@ -1231,11 +821,6 @@
     },
     {
       "YearMonth":"2020-05",
-      "ZIP_CODE":"60618",
-      "count":170
-    },
-    {
-      "YearMonth":"2020-05",
       "ZIP_CODE":"60619",
       "count":161
     },
@@ -1246,28 +831,8 @@
     },
     {
       "YearMonth":"2020-05",
-      "ZIP_CODE":"60624",
-      "count":59
-    },
-    {
-      "YearMonth":"2020-05",
-      "ZIP_CODE":"60625",
-      "count":110
-    },
-    {
-      "YearMonth":"2020-05",
       "ZIP_CODE":"60628",
       "count":200
-    },
-    {
-      "YearMonth":"2020-05",
-      "ZIP_CODE":"60629",
-      "count":196
-    },
-    {
-      "YearMonth":"2020-05",
-      "ZIP_CODE":"60630",
-      "count":128
     },
     {
       "YearMonth":"2020-05",
@@ -1306,11 +871,6 @@
     },
     {
       "YearMonth":"2020-06",
-      "ZIP_CODE":"60618",
-      "count":60
-    },
-    {
-      "YearMonth":"2020-06",
       "ZIP_CODE":"60619",
       "count":45
     },
@@ -1321,28 +881,8 @@
     },
     {
       "YearMonth":"2020-06",
-      "ZIP_CODE":"60624",
-      "count":13
-    },
-    {
-      "YearMonth":"2020-06",
-      "ZIP_CODE":"60625",
-      "count":52
-    },
-    {
-      "YearMonth":"2020-06",
       "ZIP_CODE":"60628",
       "count":42
-    },
-    {
-      "YearMonth":"2020-06",
-      "ZIP_CODE":"60629",
-      "count":29
-    },
-    {
-      "YearMonth":"2020-06",
-      "ZIP_CODE":"60630",
-      "count":20
     },
     {
       "YearMonth":"2020-06",
@@ -1381,11 +921,6 @@
     },
     {
       "YearMonth":"2020-07",
-      "ZIP_CODE":"60618",
-      "count":35
-    },
-    {
-      "YearMonth":"2020-07",
       "ZIP_CODE":"60619",
       "count":51
     },
@@ -1396,28 +931,8 @@
     },
     {
       "YearMonth":"2020-07",
-      "ZIP_CODE":"60624",
-      "count":9
-    },
-    {
-      "YearMonth":"2020-07",
-      "ZIP_CODE":"60625",
-      "count":26
-    },
-    {
-      "YearMonth":"2020-07",
       "ZIP_CODE":"60628",
       "count":36
-    },
-    {
-      "YearMonth":"2020-07",
-      "ZIP_CODE":"60629",
-      "count":28
-    },
-    {
-      "YearMonth":"2020-07",
-      "ZIP_CODE":"60630",
-      "count":13
     },
     {
       "YearMonth":"2020-07",
@@ -1456,11 +971,6 @@
     },
     {
       "YearMonth":"2020-08",
-      "ZIP_CODE":"60618",
-      "count":18
-    },
-    {
-      "YearMonth":"2020-08",
       "ZIP_CODE":"60619",
       "count":25
     },
@@ -1471,28 +981,8 @@
     },
     {
       "YearMonth":"2020-08",
-      "ZIP_CODE":"60624",
-      "count":2
-    },
-    {
-      "YearMonth":"2020-08",
-      "ZIP_CODE":"60625",
-      "count":27
-    },
-    {
-      "YearMonth":"2020-08",
       "ZIP_CODE":"60628",
       "count":19
-    },
-    {
-      "YearMonth":"2020-08",
-      "ZIP_CODE":"60629",
-      "count":13
-    },
-    {
-      "YearMonth":"2020-08",
-      "ZIP_CODE":"60630",
-      "count":14
     },
     {
       "YearMonth":"2020-08",
@@ -1531,11 +1021,6 @@
     },
     {
       "YearMonth":"2020-09",
-      "ZIP_CODE":"60618",
-      "count":27
-    },
-    {
-      "YearMonth":"2020-09",
       "ZIP_CODE":"60619",
       "count":16
     },
@@ -1546,28 +1031,8 @@
     },
     {
       "YearMonth":"2020-09",
-      "ZIP_CODE":"60624",
-      "count":3
-    },
-    {
-      "YearMonth":"2020-09",
-      "ZIP_CODE":"60625",
-      "count":13
-    },
-    {
-      "YearMonth":"2020-09",
       "ZIP_CODE":"60628",
       "count":23
-    },
-    {
-      "YearMonth":"2020-09",
-      "ZIP_CODE":"60629",
-      "count":20
-    },
-    {
-      "YearMonth":"2020-09",
-      "ZIP_CODE":"60630",
-      "count":6
     },
     {
       "YearMonth":"2020-09",
@@ -1606,11 +1071,6 @@
     },
     {
       "YearMonth":"2020-10",
-      "ZIP_CODE":"60618",
-      "count":22
-    },
-    {
-      "YearMonth":"2020-10",
       "ZIP_CODE":"60619",
       "count":23
     },
@@ -1621,28 +1081,8 @@
     },
     {
       "YearMonth":"2020-10",
-      "ZIP_CODE":"60624",
-      "count":8
-    },
-    {
-      "YearMonth":"2020-10",
-      "ZIP_CODE":"60625",
-      "count":9
-    },
-    {
-      "YearMonth":"2020-10",
       "ZIP_CODE":"60628",
       "count":26
-    },
-    {
-      "YearMonth":"2020-10",
-      "ZIP_CODE":"60629",
-      "count":30
-    },
-    {
-      "YearMonth":"2020-10",
-      "ZIP_CODE":"60630",
-      "count":15
     },
     {
       "YearMonth":"2020-10",
@@ -1681,11 +1121,6 @@
     },
     {
       "YearMonth":"2020-11",
-      "ZIP_CODE":"60618",
-      "count":12
-    },
-    {
-      "YearMonth":"2020-11",
       "ZIP_CODE":"60619",
       "count":25
     },
@@ -1696,28 +1131,8 @@
     },
     {
       "YearMonth":"2020-11",
-      "ZIP_CODE":"60624",
-      "count":6
-    },
-    {
-      "YearMonth":"2020-11",
-      "ZIP_CODE":"60625",
-      "count":14
-    },
-    {
-      "YearMonth":"2020-11",
       "ZIP_CODE":"60628",
       "count":30
-    },
-    {
-      "YearMonth":"2020-11",
-      "ZIP_CODE":"60629",
-      "count":17
-    },
-    {
-      "YearMonth":"2020-11",
-      "ZIP_CODE":"60630",
-      "count":5
     },
     {
       "YearMonth":"2020-11",
@@ -1756,11 +1171,6 @@
     },
     {
       "YearMonth":"2020-12",
-      "ZIP_CODE":"60618",
-      "count":13
-    },
-    {
-      "YearMonth":"2020-12",
       "ZIP_CODE":"60619",
       "count":23
     },
@@ -1771,28 +1181,8 @@
     },
     {
       "YearMonth":"2020-12",
-      "ZIP_CODE":"60624",
-      "count":1
-    },
-    {
-      "YearMonth":"2020-12",
-      "ZIP_CODE":"60625",
-      "count":22
-    },
-    {
-      "YearMonth":"2020-12",
       "ZIP_CODE":"60628",
       "count":31
-    },
-    {
-      "YearMonth":"2020-12",
-      "ZIP_CODE":"60629",
-      "count":19
-    },
-    {
-      "YearMonth":"2020-12",
-      "ZIP_CODE":"60630",
-      "count":4
     },
     {
       "YearMonth":"2020-12",
@@ -1831,11 +1221,6 @@
     },
     {
       "YearMonth":"2021-01",
-      "ZIP_CODE":"60618",
-      "count":5
-    },
-    {
-      "YearMonth":"2021-01",
       "ZIP_CODE":"60619",
       "count":16
     },
@@ -1846,28 +1231,8 @@
     },
     {
       "YearMonth":"2021-01",
-      "ZIP_CODE":"60624",
-      "count":2
-    },
-    {
-      "YearMonth":"2021-01",
-      "ZIP_CODE":"60625",
-      "count":11
-    },
-    {
-      "YearMonth":"2021-01",
       "ZIP_CODE":"60628",
       "count":18
-    },
-    {
-      "YearMonth":"2021-01",
-      "ZIP_CODE":"60629",
-      "count":6
-    },
-    {
-      "YearMonth":"2021-01",
-      "ZIP_CODE":"60630",
-      "count":4
     },
     {
       "YearMonth":"2021-01",
@@ -1906,11 +1271,6 @@
     },
     {
       "YearMonth":"2021-02",
-      "ZIP_CODE":"60618",
-      "count":11
-    },
-    {
-      "YearMonth":"2021-02",
       "ZIP_CODE":"60619",
       "count":16
     },
@@ -1921,28 +1281,8 @@
     },
     {
       "YearMonth":"2021-02",
-      "ZIP_CODE":"60624",
-      "count":2
-    },
-    {
-      "YearMonth":"2021-02",
-      "ZIP_CODE":"60625",
-      "count":6
-    },
-    {
-      "YearMonth":"2021-02",
       "ZIP_CODE":"60628",
       "count":30
-    },
-    {
-      "YearMonth":"2021-02",
-      "ZIP_CODE":"60629",
-      "count":18
-    },
-    {
-      "YearMonth":"2021-02",
-      "ZIP_CODE":"60630",
-      "count":11
     },
     {
       "YearMonth":"2021-02",
@@ -1981,11 +1321,6 @@
     },
     {
       "YearMonth":"2021-03",
-      "ZIP_CODE":"60618",
-      "count":11
-    },
-    {
-      "YearMonth":"2021-03",
       "ZIP_CODE":"60619",
       "count":35
     },
@@ -1996,28 +1331,8 @@
     },
     {
       "YearMonth":"2021-03",
-      "ZIP_CODE":"60624",
-      "count":2
-    },
-    {
-      "YearMonth":"2021-03",
-      "ZIP_CODE":"60625",
-      "count":9
-    },
-    {
-      "YearMonth":"2021-03",
       "ZIP_CODE":"60628",
       "count":28
-    },
-    {
-      "YearMonth":"2021-03",
-      "ZIP_CODE":"60629",
-      "count":19
-    },
-    {
-      "YearMonth":"2021-03",
-      "ZIP_CODE":"60630",
-      "count":13
     },
     {
       "YearMonth":"2021-03",
@@ -2056,11 +1371,6 @@
     },
     {
       "YearMonth":"2021-04",
-      "ZIP_CODE":"60618",
-      "count":5
-    },
-    {
-      "YearMonth":"2021-04",
       "ZIP_CODE":"60619",
       "count":19
     },
@@ -2071,28 +1381,8 @@
     },
     {
       "YearMonth":"2021-04",
-      "ZIP_CODE":"60624",
-      "count":3
-    },
-    {
-      "YearMonth":"2021-04",
-      "ZIP_CODE":"60625",
-      "count":3
-    },
-    {
-      "YearMonth":"2021-04",
       "ZIP_CODE":"60628",
       "count":24
-    },
-    {
-      "YearMonth":"2021-04",
-      "ZIP_CODE":"60629",
-      "count":23
-    },
-    {
-      "YearMonth":"2021-04",
-      "ZIP_CODE":"60630",
-      "count":13
     },
     {
       "YearMonth":"2021-04",
@@ -2131,11 +1421,6 @@
     },
     {
       "YearMonth":"2021-05",
-      "ZIP_CODE":"60618",
-      "count":18
-    },
-    {
-      "YearMonth":"2021-05",
       "ZIP_CODE":"60619",
       "count":16
     },
@@ -2146,28 +1431,8 @@
     },
     {
       "YearMonth":"2021-05",
-      "ZIP_CODE":"60624",
-      "count":6
-    },
-    {
-      "YearMonth":"2021-05",
-      "ZIP_CODE":"60625",
-      "count":7
-    },
-    {
-      "YearMonth":"2021-05",
       "ZIP_CODE":"60628",
       "count":58
-    },
-    {
-      "YearMonth":"2021-05",
-      "ZIP_CODE":"60629",
-      "count":28
-    },
-    {
-      "YearMonth":"2021-05",
-      "ZIP_CODE":"60630",
-      "count":12
     },
     {
       "YearMonth":"2021-05",
@@ -2206,11 +1471,6 @@
     },
     {
       "YearMonth":"2021-06",
-      "ZIP_CODE":"60618",
-      "count":86
-    },
-    {
-      "YearMonth":"2021-06",
       "ZIP_CODE":"60619",
       "count":83
     },
@@ -2221,28 +1481,8 @@
     },
     {
       "YearMonth":"2021-06",
-      "ZIP_CODE":"60624",
-      "count":34
-    },
-    {
-      "YearMonth":"2021-06",
-      "ZIP_CODE":"60625",
-      "count":65
-    },
-    {
-      "YearMonth":"2021-06",
       "ZIP_CODE":"60628",
       "count":135
-    },
-    {
-      "YearMonth":"2021-06",
-      "ZIP_CODE":"60629",
-      "count":49
-    },
-    {
-      "YearMonth":"2021-06",
-      "ZIP_CODE":"60630",
-      "count":68
     },
     {
       "YearMonth":"2021-06",
@@ -2281,11 +1521,6 @@
     },
     {
       "YearMonth":"2021-07",
-      "ZIP_CODE":"60618",
-      "count":28
-    },
-    {
-      "YearMonth":"2021-07",
       "ZIP_CODE":"60619",
       "count":32
     },
@@ -2296,28 +1531,8 @@
     },
     {
       "YearMonth":"2021-07",
-      "ZIP_CODE":"60624",
-      "count":12
-    },
-    {
-      "YearMonth":"2021-07",
-      "ZIP_CODE":"60625",
-      "count":16
-    },
-    {
-      "YearMonth":"2021-07",
       "ZIP_CODE":"60628",
       "count":46
-    },
-    {
-      "YearMonth":"2021-07",
-      "ZIP_CODE":"60629",
-      "count":22
-    },
-    {
-      "YearMonth":"2021-07",
-      "ZIP_CODE":"60630",
-      "count":29
     },
     {
       "YearMonth":"2021-07",
@@ -2356,11 +1571,6 @@
     },
     {
       "YearMonth":"2021-08",
-      "ZIP_CODE":"60618",
-      "count":23
-    },
-    {
-      "YearMonth":"2021-08",
       "ZIP_CODE":"60619",
       "count":21
     },
@@ -2371,28 +1581,8 @@
     },
     {
       "YearMonth":"2021-08",
-      "ZIP_CODE":"60624",
-      "count":10
-    },
-    {
-      "YearMonth":"2021-08",
-      "ZIP_CODE":"60625",
-      "count":15
-    },
-    {
-      "YearMonth":"2021-08",
       "ZIP_CODE":"60628",
       "count":29
-    },
-    {
-      "YearMonth":"2021-08",
-      "ZIP_CODE":"60629",
-      "count":28
-    },
-    {
-      "YearMonth":"2021-08",
-      "ZIP_CODE":"60630",
-      "count":9
     },
     {
       "YearMonth":"2021-08",
@@ -2431,11 +1621,6 @@
     },
     {
       "YearMonth":"2021-09",
-      "ZIP_CODE":"60618",
-      "count":12
-    },
-    {
-      "YearMonth":"2021-09",
       "ZIP_CODE":"60619",
       "count":8
     },
@@ -2446,28 +1631,8 @@
     },
     {
       "YearMonth":"2021-09",
-      "ZIP_CODE":"60624",
-      "count":4
-    },
-    {
-      "YearMonth":"2021-09",
-      "ZIP_CODE":"60625",
-      "count":7
-    },
-    {
-      "YearMonth":"2021-09",
       "ZIP_CODE":"60628",
       "count":21
-    },
-    {
-      "YearMonth":"2021-09",
-      "ZIP_CODE":"60629",
-      "count":13
-    },
-    {
-      "YearMonth":"2021-09",
-      "ZIP_CODE":"60630",
-      "count":9
     },
     {
       "YearMonth":"2021-09",
@@ -2506,11 +1671,6 @@
     },
     {
       "YearMonth":"2021-10",
-      "ZIP_CODE":"60618",
-      "count":68
-    },
-    {
-      "YearMonth":"2021-10",
       "ZIP_CODE":"60619",
       "count":40
     },
@@ -2521,28 +1681,8 @@
     },
     {
       "YearMonth":"2021-10",
-      "ZIP_CODE":"60624",
-      "count":20
-    },
-    {
-      "YearMonth":"2021-10",
-      "ZIP_CODE":"60625",
-      "count":61
-    },
-    {
-      "YearMonth":"2021-10",
       "ZIP_CODE":"60628",
       "count":75
-    },
-    {
-      "YearMonth":"2021-10",
-      "ZIP_CODE":"60629",
-      "count":29
-    },
-    {
-      "YearMonth":"2021-10",
-      "ZIP_CODE":"60630",
-      "count":36
     },
     {
       "YearMonth":"2021-10",
@@ -2581,11 +1721,6 @@
     },
     {
       "YearMonth":"2021-11",
-      "ZIP_CODE":"60618",
-      "count":7
-    },
-    {
-      "YearMonth":"2021-11",
       "ZIP_CODE":"60619",
       "count":24
     },
@@ -2596,28 +1731,8 @@
     },
     {
       "YearMonth":"2021-11",
-      "ZIP_CODE":"60624",
-      "count":4
-    },
-    {
-      "YearMonth":"2021-11",
-      "ZIP_CODE":"60625",
-      "count":8
-    },
-    {
-      "YearMonth":"2021-11",
       "ZIP_CODE":"60628",
       "count":16
-    },
-    {
-      "YearMonth":"2021-11",
-      "ZIP_CODE":"60629",
-      "count":16
-    },
-    {
-      "YearMonth":"2021-11",
-      "ZIP_CODE":"60630",
-      "count":3
     },
     {
       "YearMonth":"2021-11",
@@ -2651,11 +1766,6 @@
     },
     {
       "YearMonth":"2021-12",
-      "ZIP_CODE":"60618",
-      "count":17
-    },
-    {
-      "YearMonth":"2021-12",
       "ZIP_CODE":"60619",
       "count":14
     },
@@ -2666,28 +1776,8 @@
     },
     {
       "YearMonth":"2021-12",
-      "ZIP_CODE":"60624",
-      "count":10
-    },
-    {
-      "YearMonth":"2021-12",
-      "ZIP_CODE":"60625",
-      "count":8
-    },
-    {
-      "YearMonth":"2021-12",
       "ZIP_CODE":"60628",
       "count":25
-    },
-    {
-      "YearMonth":"2021-12",
-      "ZIP_CODE":"60629",
-      "count":15
-    },
-    {
-      "YearMonth":"2021-12",
-      "ZIP_CODE":"60630",
-      "count":9
     },
     {
       "YearMonth":"2021-12",
@@ -2726,11 +1816,6 @@
     },
     {
       "YearMonth":"2022-01",
-      "ZIP_CODE":"60618",
-      "count":12
-    },
-    {
-      "YearMonth":"2022-01",
       "ZIP_CODE":"60619",
       "count":15
     },
@@ -2741,28 +1826,8 @@
     },
     {
       "YearMonth":"2022-01",
-      "ZIP_CODE":"60624",
-      "count":3
-    },
-    {
-      "YearMonth":"2022-01",
-      "ZIP_CODE":"60625",
-      "count":9
-    },
-    {
-      "YearMonth":"2022-01",
       "ZIP_CODE":"60628",
       "count":17
-    },
-    {
-      "YearMonth":"2022-01",
-      "ZIP_CODE":"60629",
-      "count":22
-    },
-    {
-      "YearMonth":"2022-01",
-      "ZIP_CODE":"60630",
-      "count":6
     },
     {
       "YearMonth":"2022-01",
@@ -2801,11 +1866,6 @@
     },
     {
       "YearMonth":"2022-02",
-      "ZIP_CODE":"60618",
-      "count":23
-    },
-    {
-      "YearMonth":"2022-02",
       "ZIP_CODE":"60619",
       "count":42
     },
@@ -2816,28 +1876,8 @@
     },
     {
       "YearMonth":"2022-02",
-      "ZIP_CODE":"60624",
-      "count":14
-    },
-    {
-      "YearMonth":"2022-02",
-      "ZIP_CODE":"60625",
-      "count":30
-    },
-    {
-      "YearMonth":"2022-02",
       "ZIP_CODE":"60628",
       "count":57
-    },
-    {
-      "YearMonth":"2022-02",
-      "ZIP_CODE":"60629",
-      "count":55
-    },
-    {
-      "YearMonth":"2022-02",
-      "ZIP_CODE":"60630",
-      "count":18
     },
     {
       "YearMonth":"2022-02",
@@ -2876,11 +1916,6 @@
     },
     {
       "YearMonth":"2022-03",
-      "ZIP_CODE":"60618",
-      "count":54
-    },
-    {
-      "YearMonth":"2022-03",
       "ZIP_CODE":"60619",
       "count":41
     },
@@ -2891,28 +1926,8 @@
     },
     {
       "YearMonth":"2022-03",
-      "ZIP_CODE":"60624",
-      "count":21
-    },
-    {
-      "YearMonth":"2022-03",
-      "ZIP_CODE":"60625",
-      "count":28
-    },
-    {
-      "YearMonth":"2022-03",
       "ZIP_CODE":"60628",
       "count":73
-    },
-    {
-      "YearMonth":"2022-03",
-      "ZIP_CODE":"60629",
-      "count":36
-    },
-    {
-      "YearMonth":"2022-03",
-      "ZIP_CODE":"60630",
-      "count":34
     },
     {
       "YearMonth":"2022-03",
@@ -2951,11 +1966,6 @@
     },
     {
       "YearMonth":"2022-04",
-      "ZIP_CODE":"60618",
-      "count":60
-    },
-    {
-      "YearMonth":"2022-04",
       "ZIP_CODE":"60619",
       "count":40
     },
@@ -2966,28 +1976,8 @@
     },
     {
       "YearMonth":"2022-04",
-      "ZIP_CODE":"60624",
-      "count":19
-    },
-    {
-      "YearMonth":"2022-04",
-      "ZIP_CODE":"60625",
-      "count":46
-    },
-    {
-      "YearMonth":"2022-04",
       "ZIP_CODE":"60628",
       "count":48
-    },
-    {
-      "YearMonth":"2022-04",
-      "ZIP_CODE":"60629",
-      "count":24
-    },
-    {
-      "YearMonth":"2022-04",
-      "ZIP_CODE":"60630",
-      "count":33
     },
     {
       "YearMonth":"2022-04",
@@ -3026,11 +2016,6 @@
     },
     {
       "YearMonth":"2022-05",
-      "ZIP_CODE":"60618",
-      "count":60
-    },
-    {
-      "YearMonth":"2022-05",
       "ZIP_CODE":"60619",
       "count":50
     },
@@ -3041,28 +2026,8 @@
     },
     {
       "YearMonth":"2022-05",
-      "ZIP_CODE":"60624",
-      "count":20
-    },
-    {
-      "YearMonth":"2022-05",
-      "ZIP_CODE":"60625",
-      "count":55
-    },
-    {
-      "YearMonth":"2022-05",
       "ZIP_CODE":"60628",
       "count":70
-    },
-    {
-      "YearMonth":"2022-05",
-      "ZIP_CODE":"60629",
-      "count":51
-    },
-    {
-      "YearMonth":"2022-05",
-      "ZIP_CODE":"60630",
-      "count":37
     },
     {
       "YearMonth":"2022-05",
@@ -3101,11 +2066,6 @@
     },
     {
       "YearMonth":"2022-06",
-      "ZIP_CODE":"60618",
-      "count":25
-    },
-    {
-      "YearMonth":"2022-06",
       "ZIP_CODE":"60619",
       "count":30
     },
@@ -3116,28 +2076,8 @@
     },
     {
       "YearMonth":"2022-06",
-      "ZIP_CODE":"60624",
-      "count":16
-    },
-    {
-      "YearMonth":"2022-06",
-      "ZIP_CODE":"60625",
-      "count":13
-    },
-    {
-      "YearMonth":"2022-06",
       "ZIP_CODE":"60628",
       "count":37
-    },
-    {
-      "YearMonth":"2022-06",
-      "ZIP_CODE":"60629",
-      "count":24
-    },
-    {
-      "YearMonth":"2022-06",
-      "ZIP_CODE":"60630",
-      "count":12
     },
     {
       "YearMonth":"2022-06",
@@ -3176,11 +2116,6 @@
     },
     {
       "YearMonth":"2022-07",
-      "ZIP_CODE":"60618",
-      "count":27
-    },
-    {
-      "YearMonth":"2022-07",
       "ZIP_CODE":"60619",
       "count":51
     },
@@ -3191,28 +2126,8 @@
     },
     {
       "YearMonth":"2022-07",
-      "ZIP_CODE":"60624",
-      "count":8
-    },
-    {
-      "YearMonth":"2022-07",
-      "ZIP_CODE":"60625",
-      "count":18
-    },
-    {
-      "YearMonth":"2022-07",
       "ZIP_CODE":"60628",
       "count":40
-    },
-    {
-      "YearMonth":"2022-07",
-      "ZIP_CODE":"60629",
-      "count":46
-    },
-    {
-      "YearMonth":"2022-07",
-      "ZIP_CODE":"60630",
-      "count":10
     },
     {
       "YearMonth":"2022-07",
@@ -3251,11 +2166,6 @@
     },
     {
       "YearMonth":"2022-08",
-      "ZIP_CODE":"60618",
-      "count":11
-    },
-    {
-      "YearMonth":"2022-08",
       "ZIP_CODE":"60619",
       "count":30
     },
@@ -3266,28 +2176,8 @@
     },
     {
       "YearMonth":"2022-08",
-      "ZIP_CODE":"60624",
-      "count":1
-    },
-    {
-      "YearMonth":"2022-08",
-      "ZIP_CODE":"60625",
-      "count":7
-    },
-    {
-      "YearMonth":"2022-08",
       "ZIP_CODE":"60628",
       "count":37
-    },
-    {
-      "YearMonth":"2022-08",
-      "ZIP_CODE":"60629",
-      "count":17
-    },
-    {
-      "YearMonth":"2022-08",
-      "ZIP_CODE":"60630",
-      "count":7
     },
     {
       "YearMonth":"2022-08",
@@ -3326,11 +2216,6 @@
     },
     {
       "YearMonth":"2022-09",
-      "ZIP_CODE":"60618",
-      "count":140
-    },
-    {
-      "YearMonth":"2022-09",
       "ZIP_CODE":"60619",
       "count":20
     },
@@ -3341,28 +2226,8 @@
     },
     {
       "YearMonth":"2022-09",
-      "ZIP_CODE":"60624",
-      "count":11
-    },
-    {
-      "YearMonth":"2022-09",
-      "ZIP_CODE":"60625",
-      "count":300
-    },
-    {
-      "YearMonth":"2022-09",
       "ZIP_CODE":"60628",
       "count":16
-    },
-    {
-      "YearMonth":"2022-09",
-      "ZIP_CODE":"60629",
-      "count":17
-    },
-    {
-      "YearMonth":"2022-09",
-      "ZIP_CODE":"60630",
-      "count":433
     },
     {
       "YearMonth":"2022-09",
@@ -3401,11 +2266,6 @@
     },
     {
       "YearMonth":"2022-10",
-      "ZIP_CODE":"60618",
-      "count":15
-    },
-    {
-      "YearMonth":"2022-10",
       "ZIP_CODE":"60619",
       "count":15
     },
@@ -3416,28 +2276,8 @@
     },
     {
       "YearMonth":"2022-10",
-      "ZIP_CODE":"60624",
-      "count":6
-    },
-    {
-      "YearMonth":"2022-10",
-      "ZIP_CODE":"60625",
-      "count":23
-    },
-    {
-      "YearMonth":"2022-10",
       "ZIP_CODE":"60628",
       "count":25
-    },
-    {
-      "YearMonth":"2022-10",
-      "ZIP_CODE":"60629",
-      "count":12
-    },
-    {
-      "YearMonth":"2022-10",
-      "ZIP_CODE":"60630",
-      "count":10
     },
     {
       "YearMonth":"2022-10",
@@ -3476,18 +2316,8 @@
     },
     {
       "YearMonth":"2022-11",
-      "ZIP_CODE":"60618",
-      "count":3
-    },
-    {
-      "YearMonth":"2022-11",
       "ZIP_CODE":"60628",
       "count":7
-    },
-    {
-      "YearMonth":"2022-11",
-      "ZIP_CODE":"60630",
-      "count":1
     },
     {
       "YearMonth":"2022-11",
@@ -3516,22 +2346,7 @@
     },
     {
       "YearMonth":"2022-12",
-      "ZIP_CODE":"60618",
-      "count":1
-    },
-    {
-      "YearMonth":"2022-12",
-      "ZIP_CODE":"60625",
-      "count":1
-    },
-    {
-      "YearMonth":"2022-12",
       "ZIP_CODE":"60628",
-      "count":1
-    },
-    {
-      "YearMonth":"2022-12",
-      "ZIP_CODE":"60630",
       "count":1
     },
     {
@@ -3551,16 +2366,6 @@
     },
     {
       "YearMonth":"2023-01",
-      "ZIP_CODE":"60624",
-      "count":1
-    },
-    {
-      "YearMonth":"2023-01",
-      "ZIP_CODE":"60625",
-      "count":2
-    },
-    {
-      "YearMonth":"2023-01",
       "ZIP_CODE":"60641",
       "count":2
     },
@@ -3576,11 +2381,6 @@
     },
     {
       "YearMonth":"2023-02",
-      "ZIP_CODE":"60618",
-      "count":2
-    },
-    {
-      "YearMonth":"2023-02",
       "ZIP_CODE":"60619",
       "count":2
     },
@@ -3588,26 +2388,6 @@
       "YearMonth":"2023-02",
       "ZIP_CODE":"60620",
       "count":1
-    },
-    {
-      "YearMonth":"2023-02",
-      "ZIP_CODE":"60624",
-      "count":2
-    },
-    {
-      "YearMonth":"2023-02",
-      "ZIP_CODE":"60625",
-      "count":4
-    },
-    {
-      "YearMonth":"2023-02",
-      "ZIP_CODE":"60629",
-      "count":2
-    },
-    {
-      "YearMonth":"2023-02",
-      "ZIP_CODE":"60630",
-      "count":4
     },
     {
       "YearMonth":"2023-02",
@@ -3641,28 +2421,8 @@
     },
     {
       "YearMonth":"2023-03",
-      "ZIP_CODE":"60618",
-      "count":2
-    },
-    {
-      "YearMonth":"2023-03",
       "ZIP_CODE":"60619",
       "count":2
-    },
-    {
-      "YearMonth":"2023-03",
-      "ZIP_CODE":"60624",
-      "count":2
-    },
-    {
-      "YearMonth":"2023-03",
-      "ZIP_CODE":"60625",
-      "count":1
-    },
-    {
-      "YearMonth":"2023-03",
-      "ZIP_CODE":"60630",
-      "count":1
     },
     {
       "YearMonth":"2023-03",
@@ -3696,18 +2456,8 @@
     },
     {
       "YearMonth":"2023-04",
-      "ZIP_CODE":"60625",
-      "count":2
-    },
-    {
-      "YearMonth":"2023-04",
       "ZIP_CODE":"60628",
       "count":1
-    },
-    {
-      "YearMonth":"2023-04",
-      "ZIP_CODE":"60629",
-      "count":3
     },
     {
       "YearMonth":"2023-04",
@@ -3728,11 +2478,6 @@
       "YearMonth":"2023-05",
       "ZIP_CODE":"60617",
       "count":19
-    },
-    {
-      "YearMonth":"2023-05",
-      "ZIP_CODE":"60618",
-      "count":5
     },
     {
       "YearMonth":"2023-05",
@@ -3746,28 +2491,8 @@
     },
     {
       "YearMonth":"2023-05",
-      "ZIP_CODE":"60624",
-      "count":7
-    },
-    {
-      "YearMonth":"2023-05",
-      "ZIP_CODE":"60625",
-      "count":11
-    },
-    {
-      "YearMonth":"2023-05",
       "ZIP_CODE":"60628",
       "count":13
-    },
-    {
-      "YearMonth":"2023-05",
-      "ZIP_CODE":"60629",
-      "count":11
-    },
-    {
-      "YearMonth":"2023-05",
-      "ZIP_CODE":"60630",
-      "count":2
     },
     {
       "YearMonth":"2023-05",
@@ -3806,11 +2531,6 @@
     },
     {
       "YearMonth":"2023-06",
-      "ZIP_CODE":"60618",
-      "count":10
-    },
-    {
-      "YearMonth":"2023-06",
       "ZIP_CODE":"60619",
       "count":22
     },
@@ -3821,28 +2541,8 @@
     },
     {
       "YearMonth":"2023-06",
-      "ZIP_CODE":"60624",
-      "count":7
-    },
-    {
-      "YearMonth":"2023-06",
-      "ZIP_CODE":"60625",
-      "count":13
-    },
-    {
-      "YearMonth":"2023-06",
       "ZIP_CODE":"60628",
       "count":31
-    },
-    {
-      "YearMonth":"2023-06",
-      "ZIP_CODE":"60629",
-      "count":9
-    },
-    {
-      "YearMonth":"2023-06",
-      "ZIP_CODE":"60630",
-      "count":10
     },
     {
       "YearMonth":"2023-06",
@@ -3881,11 +2581,6 @@
     },
     {
       "YearMonth":"2023-07",
-      "ZIP_CODE":"60618",
-      "count":124
-    },
-    {
-      "YearMonth":"2023-07",
       "ZIP_CODE":"60619",
       "count":687
     },
@@ -3896,28 +2591,8 @@
     },
     {
       "YearMonth":"2023-07",
-      "ZIP_CODE":"60624",
-      "count":1066
-    },
-    {
-      "YearMonth":"2023-07",
-      "ZIP_CODE":"60625",
-      "count":58
-    },
-    {
-      "YearMonth":"2023-07",
       "ZIP_CODE":"60628",
       "count":434
-    },
-    {
-      "YearMonth":"2023-07",
-      "ZIP_CODE":"60629",
-      "count":164
-    },
-    {
-      "YearMonth":"2023-07",
-      "ZIP_CODE":"60630",
-      "count":286
     },
     {
       "YearMonth":"2023-07",
@@ -3956,11 +2631,6 @@
     },
     {
       "YearMonth":"2023-08",
-      "ZIP_CODE":"60618",
-      "count":16
-    },
-    {
-      "YearMonth":"2023-08",
       "ZIP_CODE":"60619",
       "count":58
     },
@@ -3971,28 +2641,8 @@
     },
     {
       "YearMonth":"2023-08",
-      "ZIP_CODE":"60624",
-      "count":52
-    },
-    {
-      "YearMonth":"2023-08",
-      "ZIP_CODE":"60625",
-      "count":17
-    },
-    {
-      "YearMonth":"2023-08",
       "ZIP_CODE":"60628",
       "count":32
-    },
-    {
-      "YearMonth":"2023-08",
-      "ZIP_CODE":"60629",
-      "count":46
-    },
-    {
-      "YearMonth":"2023-08",
-      "ZIP_CODE":"60630",
-      "count":23
     },
     {
       "YearMonth":"2023-08",
@@ -4031,11 +2681,6 @@
     },
     {
       "YearMonth":"2023-09",
-      "ZIP_CODE":"60618",
-      "count":20
-    },
-    {
-      "YearMonth":"2023-09",
       "ZIP_CODE":"60619",
       "count":27
     },
@@ -4046,28 +2691,8 @@
     },
     {
       "YearMonth":"2023-09",
-      "ZIP_CODE":"60624",
-      "count":17
-    },
-    {
-      "YearMonth":"2023-09",
-      "ZIP_CODE":"60625",
-      "count":14
-    },
-    {
-      "YearMonth":"2023-09",
       "ZIP_CODE":"60628",
       "count":45
-    },
-    {
-      "YearMonth":"2023-09",
-      "ZIP_CODE":"60629",
-      "count":20
-    },
-    {
-      "YearMonth":"2023-09",
-      "ZIP_CODE":"60630",
-      "count":8
     },
     {
       "YearMonth":"2023-09",
@@ -4106,11 +2731,6 @@
     },
     {
       "YearMonth":"2023-10",
-      "ZIP_CODE":"60618",
-      "count":10
-    },
-    {
-      "YearMonth":"2023-10",
       "ZIP_CODE":"60619",
       "count":12
     },
@@ -4121,28 +2741,8 @@
     },
     {
       "YearMonth":"2023-10",
-      "ZIP_CODE":"60624",
-      "count":9
-    },
-    {
-      "YearMonth":"2023-10",
-      "ZIP_CODE":"60625",
-      "count":6
-    },
-    {
-      "YearMonth":"2023-10",
       "ZIP_CODE":"60628",
       "count":19
-    },
-    {
-      "YearMonth":"2023-10",
-      "ZIP_CODE":"60629",
-      "count":16
-    },
-    {
-      "YearMonth":"2023-10",
-      "ZIP_CODE":"60630",
-      "count":11
     },
     {
       "YearMonth":"2023-10",
@@ -4181,11 +2781,6 @@
     },
     {
       "YearMonth":"2023-11",
-      "ZIP_CODE":"60618",
-      "count":6
-    },
-    {
-      "YearMonth":"2023-11",
       "ZIP_CODE":"60619",
       "count":10
     },
@@ -4196,28 +2791,8 @@
     },
     {
       "YearMonth":"2023-11",
-      "ZIP_CODE":"60624",
-      "count":8
-    },
-    {
-      "YearMonth":"2023-11",
-      "ZIP_CODE":"60625",
-      "count":8
-    },
-    {
-      "YearMonth":"2023-11",
       "ZIP_CODE":"60628",
       "count":20
-    },
-    {
-      "YearMonth":"2023-11",
-      "ZIP_CODE":"60629",
-      "count":10
-    },
-    {
-      "YearMonth":"2023-11",
-      "ZIP_CODE":"60630",
-      "count":3
     },
     {
       "YearMonth":"2023-11",
@@ -4256,11 +2831,6 @@
     },
     {
       "YearMonth":"2023-12",
-      "ZIP_CODE":"60618",
-      "count":14
-    },
-    {
-      "YearMonth":"2023-12",
       "ZIP_CODE":"60619",
       "count":18
     },
@@ -4271,28 +2841,8 @@
     },
     {
       "YearMonth":"2023-12",
-      "ZIP_CODE":"60624",
-      "count":9
-    },
-    {
-      "YearMonth":"2023-12",
-      "ZIP_CODE":"60625",
-      "count":9
-    },
-    {
-      "YearMonth":"2023-12",
       "ZIP_CODE":"60628",
       "count":35
-    },
-    {
-      "YearMonth":"2023-12",
-      "ZIP_CODE":"60629",
-      "count":15
-    },
-    {
-      "YearMonth":"2023-12",
-      "ZIP_CODE":"60630",
-      "count":6
     },
     {
       "YearMonth":"2023-12",

@@ -1,8 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background": null,
     "description": "Monthly Complaint Distribution (Filtered by Year)",
-    "width": 800,
-    "height": 400,
+    "width": 500,
+    "height": 250,
     "data": {
       "url": "data/complaints_by_month_year.json"
     },

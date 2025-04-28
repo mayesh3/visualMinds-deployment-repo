@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": null,
   "description": "Dropdown-driven Multi-View: Bar Chart + Lollipop Chart",
   "data": {
     "url": "data/flooding_complaints_preprocessed.json"
@@ -32,8 +33,8 @@
         "type": "bar",
         "tooltip": true
       },
-      "width": 500,
-      "height": 300,
+      "width": 400,
+      "height": 200,
       "encoding": {
         "x": {
           "field": "value",
@@ -55,8 +56,8 @@
     },
     {
       "title": "Complaint Volume by Group",
-      "width": 500,
-      "height": 300,
+      "width": 400,
+      "height": 200,
       "layer": [
         {
           "mark": {

@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background": null,
     "description": "Flooding Complaints Choropleth Map",
     "data": {
       "url": "Boundaries - ZIP Codes_20250308.geojson",
@@ -48,6 +49,6 @@
       ]
     },
     "title": "Flooding Complaints by ZIP Code Choropleth",
-    "width": 600,
-    "height": 500
+    "width": 500,
+    "height": 400
   }
