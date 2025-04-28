@@ -1,0 +1,1382 @@
+[
+  {
+    "BOROUGH":1.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":258
+  },
+  {
+    "BOROUGH":1.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":461
+  },
+  {
+    "BOROUGH":2.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":495
+  },
+  {
+    "BOROUGH":2.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":494
+  },
+  {
+    "BOROUGH":3.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":365
+  },
+  {
+    "BOROUGH":3.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":133
+  },
+  {
+    "BOROUGH":4.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":386
+  },
+  {
+    "BOROUGH":4.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":270
+  },
+  {
+    "BOROUGH":5.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":380
+  },
+  {
+    "BOROUGH":5.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":146
+  },
+  {
+    "BOROUGH":6.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":608
+  },
+  {
+    "BOROUGH":6.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":139
+  },
+  {
+    "BOROUGH":7.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":619
+  },
+  {
+    "BOROUGH":7.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":134
+  },
+  {
+    "BOROUGH":8.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":279
+  },
+  {
+    "BOROUGH":8.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":75
+  },
+  {
+    "BOROUGH":9.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":73
+  },
+  {
+    "BOROUGH":9.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":43
+  },
+  {
+    "BOROUGH":10.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":283
+  },
+  {
+    "BOROUGH":10.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":181
+  },
+  {
+    "BOROUGH":11.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":238
+  },
+  {
+    "BOROUGH":11.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":251
+  },
+  {
+    "BOROUGH":12.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":202
+  },
+  {
+    "BOROUGH":12.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":293
+  },
+  {
+    "BOROUGH":13.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":129
+  },
+  {
+    "BOROUGH":13.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":126
+  },
+  {
+    "BOROUGH":14.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":383
+  },
+  {
+    "BOROUGH":14.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":392
+  },
+  {
+    "BOROUGH":15.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":225
+  },
+  {
+    "BOROUGH":15.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":236
+  },
+  {
+    "BOROUGH":15.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":796
+  },
+  {
+    "BOROUGH":15.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":579
+  },
+  {
+    "BOROUGH":16.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":155
+  },
+  {
+    "BOROUGH":16.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":299
+  },
+  {
+    "BOROUGH":16.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":143
+  },
+  {
+    "BOROUGH":16.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":243
+  },
+  {
+    "BOROUGH":17.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":236
+  },
+  {
+    "BOROUGH":17.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":349
+  },
+  {
+    "BOROUGH":18.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":117
+  },
+  {
+    "BOROUGH":18.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":73
+  },
+  {
+    "BOROUGH":19.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":251
+  },
+  {
+    "BOROUGH":19.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":90
+  },
+  {
+    "BOROUGH":19.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":103
+  },
+  {
+    "BOROUGH":19.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":493
+  },
+  {
+    "BOROUGH":19.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":130
+  },
+  {
+    "BOROUGH":19.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":152
+  },
+  {
+    "BOROUGH":20.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":81
+  },
+  {
+    "BOROUGH":20.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":26
+  },
+  {
+    "BOROUGH":20.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":2
+  },
+  {
+    "BOROUGH":20.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":118
+  },
+  {
+    "BOROUGH":20.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":41
+  },
+  {
+    "BOROUGH":20.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":3
+  },
+  {
+    "BOROUGH":21.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":10
+  },
+  {
+    "BOROUGH":21.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":215
+  },
+  {
+    "BOROUGH":21.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60641",
+    "COUNT":12
+  },
+  {
+    "BOROUGH":21.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":133
+  },
+  {
+    "BOROUGH":22.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":5
+  },
+  {
+    "BOROUGH":22.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":576
+  },
+  {
+    "BOROUGH":22.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":1
+  },
+  {
+    "BOROUGH":22.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":267
+  },
+  {
+    "BOROUGH":23.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":55
+  },
+  {
+    "BOROUGH":23.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":20
+  },
+  {
+    "BOROUGH":23.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60651",
+    "COUNT":194
+  },
+  {
+    "BOROUGH":23.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":59
+  },
+  {
+    "BOROUGH":23.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":123
+  },
+  {
+    "BOROUGH":23.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":33
+  },
+  {
+    "BOROUGH":23.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60651",
+    "COUNT":636
+  },
+  {
+    "BOROUGH":23.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":53
+  },
+  {
+    "BOROUGH":24.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":843
+  },
+  {
+    "BOROUGH":24.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":283
+  },
+  {
+    "BOROUGH":25.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":98
+  },
+  {
+    "BOROUGH":25.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60644",
+    "COUNT":252
+  },
+  {
+    "BOROUGH":25.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60651",
+    "COUNT":193
+  },
+  {
+    "BOROUGH":25.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":92
+  },
+  {
+    "BOROUGH":25.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60639",
+    "COUNT":755
+  },
+  {
+    "BOROUGH":25.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60644",
+    "COUNT":2912
+  },
+  {
+    "BOROUGH":25.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60651",
+    "COUNT":2185
+  },
+  {
+    "BOROUGH":25.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":127
+  },
+  {
+    "BOROUGH":26.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":116
+  },
+  {
+    "BOROUGH":26.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":979
+  },
+  {
+    "BOROUGH":27.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":85
+  },
+  {
+    "BOROUGH":27.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":67
+  },
+  {
+    "BOROUGH":27.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":92
+  },
+  {
+    "BOROUGH":27.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":119
+  },
+  {
+    "BOROUGH":28.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":479
+  },
+  {
+    "BOROUGH":28.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":123
+  },
+  {
+    "BOROUGH":29.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":19
+  },
+  {
+    "BOROUGH":29.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":190
+  },
+  {
+    "BOROUGH":29.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":75
+  },
+  {
+    "BOROUGH":29.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":592
+  },
+  {
+    "BOROUGH":30.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":297
+  },
+  {
+    "BOROUGH":30.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":397
+  },
+  {
+    "BOROUGH":31.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":236
+  },
+  {
+    "BOROUGH":31.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":135
+  },
+  {
+    "BOROUGH":32.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60624",
+    "COUNT":1
+  },
+  {
+    "BOROUGH":32.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":132
+  },
+  {
+    "BOROUGH":32.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":108
+  },
+  {
+    "BOROUGH":33.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":90
+  },
+  {
+    "BOROUGH":33.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":68
+  },
+  {
+    "BOROUGH":34.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":45
+  },
+  {
+    "BOROUGH":34.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":41
+  },
+  {
+    "BOROUGH":35.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":93
+  },
+  {
+    "BOROUGH":35.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":42
+  },
+  {
+    "BOROUGH":36.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":13
+  },
+  {
+    "BOROUGH":36.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":19
+  },
+  {
+    "BOROUGH":37.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":21
+  },
+  {
+    "BOROUGH":37.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":20
+  },
+  {
+    "BOROUGH":38.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":149
+  },
+  {
+    "BOROUGH":38.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":105
+  },
+  {
+    "BOROUGH":39.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":100
+  },
+  {
+    "BOROUGH":39.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":50
+  },
+  {
+    "BOROUGH":40.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":82
+  },
+  {
+    "BOROUGH":40.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":41
+  },
+  {
+    "BOROUGH":41.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":187
+  },
+  {
+    "BOROUGH":41.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":37
+  },
+  {
+    "BOROUGH":42.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":160
+  },
+  {
+    "BOROUGH":42.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":148
+  },
+  {
+    "BOROUGH":43.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":25
+  },
+  {
+    "BOROUGH":43.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":382
+  },
+  {
+    "BOROUGH":43.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":47
+  },
+  {
+    "BOROUGH":43.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":417
+  },
+  {
+    "BOROUGH":44.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":298
+  },
+  {
+    "BOROUGH":44.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":59
+  },
+  {
+    "BOROUGH":44.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":456
+  },
+  {
+    "BOROUGH":44.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":74
+  },
+  {
+    "BOROUGH":45.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":32
+  },
+  {
+    "BOROUGH":45.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":65
+  },
+  {
+    "BOROUGH":45.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":106
+  },
+  {
+    "BOROUGH":45.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":399
+  },
+  {
+    "BOROUGH":46.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":317
+  },
+  {
+    "BOROUGH":46.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":3
+  },
+  {
+    "BOROUGH":46.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":389
+  },
+  {
+    "BOROUGH":46.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":6
+  },
+  {
+    "BOROUGH":47.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":30
+  },
+  {
+    "BOROUGH":47.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":42
+  },
+  {
+    "BOROUGH":48.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":105
+  },
+  {
+    "BOROUGH":48.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":34
+  },
+  {
+    "BOROUGH":48.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":379
+  },
+  {
+    "BOROUGH":48.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":56
+  },
+  {
+    "BOROUGH":49.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":25
+  },
+  {
+    "BOROUGH":49.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":13
+  },
+  {
+    "BOROUGH":49.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":344
+  },
+  {
+    "BOROUGH":49.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":44
+  },
+  {
+    "BOROUGH":49.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":46
+  },
+  {
+    "BOROUGH":49.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":695
+  },
+  {
+    "BOROUGH":50.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":55
+  },
+  {
+    "BOROUGH":50.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":2
+  },
+  {
+    "BOROUGH":50.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":184
+  },
+  {
+    "BOROUGH":51.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":160
+  },
+  {
+    "BOROUGH":51.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":4
+  },
+  {
+    "BOROUGH":51.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":9
+  },
+  {
+    "BOROUGH":51.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":233
+  },
+  {
+    "BOROUGH":52.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":138
+  },
+  {
+    "BOROUGH":52.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":146
+  },
+  {
+    "BOROUGH":53.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":209
+  },
+  {
+    "BOROUGH":53.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60643",
+    "COUNT":58
+  },
+  {
+    "BOROUGH":53.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":453
+  },
+  {
+    "BOROUGH":53.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60643",
+    "COUNT":175
+  },
+  {
+    "BOROUGH":54.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":6
+  },
+  {
+    "BOROUGH":54.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":26
+  },
+  {
+    "BOROUGH":54.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":1
+  },
+  {
+    "BOROUGH":54.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":32
+  },
+  {
+    "BOROUGH":55.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":13
+  },
+  {
+    "BOROUGH":55.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":77
+  },
+  {
+    "BOROUGH":55.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60617",
+    "COUNT":7
+  },
+  {
+    "BOROUGH":55.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":56
+  },
+  {
+    "BOROUGH":56.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":205
+  },
+  {
+    "BOROUGH":56.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":295
+  },
+  {
+    "BOROUGH":57.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":85
+  },
+  {
+    "BOROUGH":57.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":70
+  },
+  {
+    "BOROUGH":58.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":154
+  },
+  {
+    "BOROUGH":58.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":126
+  },
+  {
+    "BOROUGH":59.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":91
+  },
+  {
+    "BOROUGH":59.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":38
+  },
+  {
+    "BOROUGH":60.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":129
+  },
+  {
+    "BOROUGH":60.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":80
+  },
+  {
+    "BOROUGH":61.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":215
+  },
+  {
+    "BOROUGH":61.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":196
+  },
+  {
+    "BOROUGH":62.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":90
+  },
+  {
+    "BOROUGH":62.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":74
+  },
+  {
+    "BOROUGH":63.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":140
+  },
+  {
+    "BOROUGH":63.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":177
+  },
+  {
+    "BOROUGH":64.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":117
+  },
+  {
+    "BOROUGH":64.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":100
+  },
+  {
+    "BOROUGH":65.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":147
+  },
+  {
+    "BOROUGH":65.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":158
+  },
+  {
+    "BOROUGH":66.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":371
+  },
+  {
+    "BOROUGH":66.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":383
+  },
+  {
+    "BOROUGH":67.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":252
+  },
+  {
+    "BOROUGH":67.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":352
+  },
+  {
+    "BOROUGH":68.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":1
+  },
+  {
+    "BOROUGH":68.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":169
+  },
+  {
+    "BOROUGH":68.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":1
+  },
+  {
+    "BOROUGH":68.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":246
+  },
+  {
+    "BOROUGH":69.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":145
+  },
+  {
+    "BOROUGH":69.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":32
+  },
+  {
+    "BOROUGH":69.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":103
+  },
+  {
+    "BOROUGH":69.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60619",
+    "COUNT":343
+  },
+  {
+    "BOROUGH":69.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":49
+  },
+  {
+    "BOROUGH":69.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":91
+  },
+  {
+    "BOROUGH":70.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":10
+  },
+  {
+    "BOROUGH":70.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":331
+  },
+  {
+    "BOROUGH":70.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":16
+  },
+  {
+    "BOROUGH":70.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":323
+  },
+  {
+    "BOROUGH":71.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":416
+  },
+  {
+    "BOROUGH":71.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":618
+  },
+  {
+    "BOROUGH":72.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":6
+  },
+  {
+    "BOROUGH":72.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60643",
+    "COUNT":167
+  },
+  {
+    "BOROUGH":72.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":44
+  },
+  {
+    "BOROUGH":72.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":22
+  },
+  {
+    "BOROUGH":72.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60643",
+    "COUNT":242
+  },
+  {
+    "BOROUGH":72.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":70
+  },
+  {
+    "BOROUGH":73.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":111
+  },
+  {
+    "BOROUGH":73.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":71
+  },
+  {
+    "BOROUGH":73.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60643",
+    "COUNT":142
+  },
+  {
+    "BOROUGH":73.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60620",
+    "COUNT":176
+  },
+  {
+    "BOROUGH":73.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":93
+  },
+  {
+    "BOROUGH":73.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60643",
+    "COUNT":195
+  },
+  {
+    "BOROUGH":74.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":176
+  },
+  {
+    "BOROUGH":74.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":806
+  },
+  {
+    "BOROUGH":75.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":1
+  },
+  {
+    "BOROUGH":75.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"60643",
+    "COUNT":180
+  },
+  {
+    "BOROUGH":75.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":66
+  },
+  {
+    "BOROUGH":75.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60628",
+    "COUNT":5
+  },
+  {
+    "BOROUGH":75.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"60643",
+    "COUNT":333
+  },
+  {
+    "BOROUGH":75.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":140
+  },
+  {
+    "BOROUGH":76.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":21
+  },
+  {
+    "BOROUGH":76.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":7
+  },
+  {
+    "BOROUGH":77.0,
+    "COMPLAINT_TYPE":"Water On Street Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":341
+  },
+  {
+    "BOROUGH":77.0,
+    "COMPLAINT_TYPE":"Water in Basement Complaint",
+    "INCIDENT_ZIP":"Other",
+    "COUNT":499
+  }
+]

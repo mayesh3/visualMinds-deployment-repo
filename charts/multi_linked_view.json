@@ -1,0 +1,119 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Dropdown-driven Multi-View: Bar Chart + Lollipop Chart",
+  "data": {
+    "url": "data/flooding_complaints_preprocessed.json"
+  },
+  "params": [
+    {
+      "name": "group_field",
+      "value": "MONTH",
+      "bind": {
+        "input": "select",
+        "name": "▾ View by:",
+        "options": ["MONTH", "COMPLAINT_TYPE", "YEAR"],
+        "labels": ["Month", "Complaint Type", "Year"]
+      }
+    }
+  ],
+  "transform": [
+    {
+      "fold": ["MONTH", "COMPLAINT_TYPE", "YEAR"],
+      "as": ["category", "value"]
+    },
+    {
+      "filter": "datum.category == group_field"
+    }
+  ],
+  "vconcat": [
+    {
+      "title": "Number of Complaints by Selected Attribute",
+      "mark": {
+        "type": "bar",
+        "tooltip": true
+      },
+      "width": 500,
+      "height": 300,
+      "encoding": {
+        "x": {
+          "field": "value",
+          "type": "nominal",
+          "sort": "-y",
+          "title": "Group"
+        },
+        "y": {
+          "aggregate": "count",
+          "type": "quantitative",
+          "title": "Number of Complaints"
+        },
+        "color": {
+          "field": "value",
+          "type": "nominal",
+          "legend": null
+        }
+      }
+    },
+    {
+      "title": "Complaint Volume by Group",
+      "width": 500,
+      "height": 300,
+      "layer": [
+        {
+          "mark": {
+            "type": "rule",
+            "strokeWidth": 1,
+            "color": "gray"
+          },
+          "encoding": {
+            "x": {
+              "field": "value",
+              "type": "nominal",
+              "sort": "-y"
+            },
+            "x2": {"value": 0},
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative"
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "circle",
+            "size": 100
+          },
+          "encoding": {
+            "x": {
+              "field": "value",
+              "type": "nominal",
+              "sort": "-y",
+              "title": "Group"
+            },
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "title": "Complaint Volume"
+            },
+            "color": {
+              "field": "value",
+              "type": "nominal",
+              "legend": null
+            },
+            "tooltip": [
+              {
+                "field": "value",
+                "type": "nominal",
+                "title": "Group"
+              },
+              {
+                "aggregate": "count",
+                "type": "quantitative",
+                "title": "Total Complaints"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
