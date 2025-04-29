@@ -121,7 +121,7 @@
       }
     },
     {
-      "title": "Complaint Volume by Group (Lollipop Chart)",
+      "title": "Complaint Volume by Group (Horizontal Lollipop Chart)",
       "width": 500,
       "height": 300,
       "transform": [
@@ -137,12 +137,12 @@
             "color": "gray"
           },
           "encoding": {
-            "x": {
+            "y": {
               "field": "value",
               "type": "nominal",
-              "sort": "-y"
+              "sort": "-x"
             },
-            "y": {
+            "x": {
               "field": "count",
               "type": "quantitative"
             }
@@ -154,20 +154,20 @@
             "size": 100
           },
           "encoding": {
-            "x": {
+            "y": {
               "field": "value",
               "type": "nominal",
-              "sort": "-y",
+              "sort": "-x",
               "title": "Group"
             },
-            "y": {
+            "x": {
               "field": "count",
               "type": "quantitative",
               "title": "Complaint Volume"
             },
             "color": {
-              "field": "value",
-              "type": "nominal",
+              "field": "count",
+              "type": "quantitative",
               "legend": null,
               "scale": {"scheme": "blues"}
             },
