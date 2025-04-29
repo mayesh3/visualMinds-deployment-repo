@@ -48,7 +48,12 @@
     {
       "calculate": "datum.cumulativeCount / datum.totalComplaints * 100",
       "as": "cumulativePercentage"
+    },
+    {
+      "calculate": "datum.count / datum.totalComplaints * 100",
+      "as": "individualPercentage"
     }
+    
   ],
   "vconcat": [
     {
@@ -84,7 +89,8 @@
             "tooltip": [
               {"field": "value", "type": "nominal", "title": "Group"},
               {"field": "count", "type": "quantitative", "title": "Complaints"},
-              {"field": "cumulativePercentage", "type": "quantitative", "title": "Cumulative %", "format": ".1f"}
+              {"field": "cumulativePercentage", "type": "quantitative", "title": "Cumulative %", "format": ".1f"},
+              {"field": "individualPercentage", "type": "quantitative", "title": "Individual %", "format": ".1f"}
             ]
           }
         },
@@ -113,7 +119,8 @@
             },
             "tooltip": [
               {"field": "value", "type": "nominal", "title": "Group"},
-              {"field": "cumulativePercentage", "type": "quantitative", "title": "Cumulative %", "format": ".1f"}
+              {"field": "cumulativePercentage", "type": "quantitative", "title": "Cumulative %", "format": ".1f"},
+              {"field": "individualPercentage", "type": "quantitative", "title": "Individual %", "format": ".1f"}
             ]
           }
         }
