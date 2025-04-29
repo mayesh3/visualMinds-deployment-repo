@@ -3,7 +3,7 @@
     "background": null,
     "description": "Monthly Complaint Distribution (Filtered by Year)",
     "width": 500,
-    "height": 250,
+    "height": 300,
     "data": {
       "url": "data/complaints_by_month_year.json"
     },

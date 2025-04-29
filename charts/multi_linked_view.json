@@ -1,6 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Pareto Chart for Flooding Complaints Dashboard",
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
   "data": {
     "url": "data/flooding_complaints_preprocessed.json"
   },
@@ -49,8 +53,8 @@
   "vconcat": [
     {
       "title": "Pareto Chart of Flooding Complaints",
-      "width": 500,
-      "height": 350,
+      "width": 400,
+      "height": 250,
       "layer": [
         {
           "mark": {
@@ -122,8 +126,8 @@
     },
     {
       "title": "Complaint Volume by Group (Lollipop Chart)",
-      "width": 500,
-      "height": 300,
+      "width": 400,
+      "height": 200,
       "transform": [
         {
           "sort": [{"field": "count", "order": "descending"}]
